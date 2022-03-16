@@ -1,0 +1,14 @@
+name: Github-Proyecto
+title: Github-Proyecto
+username:
+account: 308iu9-isai-gutierrez
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5862505
+bundleId: 5689066
+url: https://308iu9-isai-gutierrez.shinyapps.io/Github-Proyecto/
+when: 1647388816.07063
+lastSyncTime: 1647388816.07063
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: presentacion/~$DataAnalysis Violencia en Mexico.pptx|presentacion/DataAnalysis Violencia en Mexico.pptx|README.md
